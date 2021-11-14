@@ -5,6 +5,8 @@ public class MyClass {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello DevOps This is Jenkins");
+		
+		System.out.println("This is Jenkins Demo");
 
 	}
 
